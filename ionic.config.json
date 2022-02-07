@@ -1,0 +1,7 @@
+{
+  "name": "load-file",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
